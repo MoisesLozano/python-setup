@@ -1,4 +1,4 @@
-ef hello():
+def hello():
     print("Hello user!")
 
 def pack(a, b, c):
